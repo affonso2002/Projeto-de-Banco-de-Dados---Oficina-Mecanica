@@ -65,10 +65,10 @@ Projeto: Banco de Dados – Oficina Mecânica
 
         - OS_PECA:
           - id_os (FK, PK)
-         
+          - id_peca (FK, PK)
+          - quantidade
+            
    5. Tecnologias:
       - MySQL
       - SQL
-id_peca (FK, PK)
 
-quantidade
